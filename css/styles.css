@@ -63,7 +63,7 @@ nav h1 {
 }
 nav h1 a {
   color: #fff;
-  font-size: 14pt;
+  font-size: 12pt;
   font-weight: 200;
   letter-spacing: 10px;
   text-transform: uppercase;
@@ -234,7 +234,7 @@ label{
 #restaurant-name {
   color: #f18200;
   font-family: Arial,sans-serif;
-  font-size: 20pt;
+	font-size: 10pt;
   font-weight: 200;
   letter-spacing: 0;
   margin: 15px 0 30px;
@@ -242,6 +242,7 @@ label{
   line-height: 1.1;
 	height: 30px;
 }
+
 #restaurant-img {
 	width: 90%;
 }
